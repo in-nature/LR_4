@@ -1,0 +1,3 @@
+"# LR_4"
+$ cat .gitignore
+*.txt
